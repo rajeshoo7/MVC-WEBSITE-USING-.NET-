@@ -1,0 +1,6 @@
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csprojAssemblyReference.cache
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb

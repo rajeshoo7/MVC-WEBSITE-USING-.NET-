@@ -1,0 +1,2 @@
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csprojAssemblyReference.cache
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.CoreCompileInputs.cache

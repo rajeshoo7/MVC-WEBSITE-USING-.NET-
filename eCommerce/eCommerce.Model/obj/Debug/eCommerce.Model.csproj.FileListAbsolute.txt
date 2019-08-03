@@ -1,0 +1,6 @@
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojAssemblyReference.cache
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb

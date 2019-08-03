@@ -1,0 +1,2 @@
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.csprojAssemblyReference.cache
+C:\Users\S534844\Documents\CollectionsRepo\MVC WEBSITE USING DOT NET\MVC-WEBSITE-USING-.NET-\eCommerce\eCommerce.WebUI\obj\Debug\eCommerce.WebUI.csproj.CoreCompileInputs.cache
